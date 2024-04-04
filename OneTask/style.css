@@ -1,0 +1,6 @@
+tr {
+    align-items: center;
+}
+.btn-secondary, .btn-danger {
+    margin: 5px;
+}
